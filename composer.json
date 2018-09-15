@@ -1,0 +1,15 @@
+{
+    "name": "lbb/php-framework",
+    "description": "my first php framework test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longbb2017",
+            "email": "1163225672@qq.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "1.3.0"
+    }
+}
